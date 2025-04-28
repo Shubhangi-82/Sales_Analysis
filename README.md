@@ -1,5 +1,4 @@
-# Brainwave_Matrix_Intern
-Data Analytics Project 
+#Data Analytics Project 
 
 **Sales_Analysis_Dashboard_Image**
 ![Sales_Analysis_Dashboard](https://github.com/user-attachments/assets/62c6a1ce-3d1f-4f60-b7e8-82d48c62b908)
